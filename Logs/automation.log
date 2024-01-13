@@ -117,3 +117,27 @@
 23:36:46.206 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:56404<->3.211.104.197:443 closed
 23:36:46.264 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:56399<->3.211.104.197:443 closed
 23:36:46.266 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:56403<->3.211.104.197:443 closed
+00:52:48.507 [main] INFO  api.test.UserTest2 - ****************** Creating User *********************
+00:52:56.919 [main] INFO  api.test.UserTest2 - ****************** User Created *********************
+00:52:56.953 [main] INFO  api.test.UserTest2 - ****************** Reading  User Info *********************
+00:52:59.211 [main] INFO  api.test.UserTest2 - ****************** User Info Displayed*********************
+00:52:59.214 [main] INFO  api.test.UserTest2 - ****************** Updating User *********************
+00:53:03.661 [main] INFO  api.test.UserTest2 - ****************** User updated *********************
+00:53:06.377 [main] INFO  api.test.UserTest2 - ******************Deleting User *********************
+00:53:09.731 [main] INFO  api.test.UserTest2 - ****************** User Deleted*********************
+03:09:31.995 [main] INFO  api.test.UserTest2 - ****************** Creating User *********************
+03:09:38.800 [main] INFO  api.test.UserTest2 - ****************** User Created *********************
+03:09:38.830 [main] INFO  api.test.UserTest2 - ****************** Reading  User Info *********************
+03:09:40.031 [main] INFO  api.test.UserTest2 - ****************** User Info Displayed*********************
+03:09:40.034 [main] INFO  api.test.UserTest2 - ****************** Updating User *********************
+03:09:41.204 [main] INFO  api.test.UserTest2 - ****************** User updated *********************
+03:09:42.362 [main] INFO  api.test.UserTest2 - ******************Deleting User *********************
+03:09:43.451 [main] INFO  api.test.UserTest2 - ****************** User Deleted*********************
+03:10:23.616 [main] INFO  api.test.UserTest2 - ****************** Creating User *********************
+03:10:28.108 [main] INFO  api.test.UserTest2 - ****************** User Created *********************
+03:10:28.129 [main] INFO  api.test.UserTest2 - ****************** Reading  User Info *********************
+03:10:29.287 [main] INFO  api.test.UserTest2 - ****************** User Info Displayed*********************
+03:10:29.290 [main] INFO  api.test.UserTest2 - ****************** Updating User *********************
+03:10:30.458 [main] INFO  api.test.UserTest2 - ****************** User updated *********************
+03:10:31.647 [main] INFO  api.test.UserTest2 - ******************Deleting User *********************
+03:10:32.793 [main] INFO  api.test.UserTest2 - ****************** User Deleted*********************
